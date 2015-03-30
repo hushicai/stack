@@ -1,0 +1,22 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "stack",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=./test/jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hushicai/stack.git"
+  },
+  "author": "hushicai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hushicai/stack/issues"
+  },
+  "homepage": "https://github.com/hushicai/stack"
+}
